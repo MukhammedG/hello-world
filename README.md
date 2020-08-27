@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+I created my first repository in GitHub, for learning.
+© Майкрософт (Microsoft), 2020
+
